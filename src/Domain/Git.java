@@ -7,7 +7,7 @@ public class Git {
 		System.out.println("Hola Git");
 		
 		String loro = "Lorito"; 
-		
+		System.out.println(loro);
 		
 	}
 
